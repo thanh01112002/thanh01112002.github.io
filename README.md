@@ -1,8 +1,4 @@
-các cj tự chạy cod đi em có cod oy nè
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
- <HEAD>
   <TITLE> New Document </TITLE>
   <META NAME="Generator" CONTENT="EditPlus">
   <META NAME="Author" CONTENT="">
